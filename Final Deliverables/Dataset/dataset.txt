@@ -1,0 +1,8 @@
+Fruit dataset:
+https://drive.google.com/drive/folders/129N5QEHeuJX9xx98YbaRwMYcTFAcb1OP
+Vegetable dataset:
+https://drive.google.com/file/d/1LC4QqWspliuPrtUQ0sLo6ULUmmVrQ17B/view?usp=drivesdk
+Crop recommendation (custom built dataset):
+https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
+Fertilizer suggestion dataset (custom built dataset):
+https://drive.google.com/file/d/1_npZyBnWZCsd8zBjmgtK9eULfLnnEj5d/view?usp=drivesdk

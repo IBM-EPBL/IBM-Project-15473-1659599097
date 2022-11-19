@@ -6,3 +6,5 @@ Crop recommendation (custom built dataset):
 https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
 Fertilizer suggestion dataset (custom built dataset):
 https://drive.google.com/file/d/1_npZyBnWZCsd8zBjmgtK9eULfLnnEj5d/view?usp=drivesdk
+plant dataset:
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases- dataset
